@@ -20,7 +20,7 @@ key: page-about
 * 模板来源[jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme);
 * 折腾开始于2018年2月9日，基本在2018年2月16日完工!
 
-### 其他*流*言
+### 其他**流**言
 
 * 未**女昏**人士；
 * Linux、编程爱好者；
