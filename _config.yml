@@ -42,15 +42,15 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Someone
-  # email:  #your Email address e.g. someone@site.com
-  # facebook:  #your Facebook username
-  # twitter:  #your Twitter username
-  # github:  #your GitHub username
+  name: 董树立
+  email: sudodsl@163.com #your Email address e.g. someone@site.com
+  facebook: sudodsl@gmail.com #your Facebook username
+  twitter: sudodsl@gmail.com #your Twitter username
+  github: sudodsl #your GitHub username
   # googleplus:  #your Google+ username
   # weibo:  #your Weibo username
   # douban:  #your Douban username
-  # linkedin:  #your Linkedin username
+  linkedin: 董树立 #your Linkedin username
 
 ## Comment system (Disqus) ##
 disqus:
@@ -59,12 +59,12 @@ disqus:
 ## Comment system (gitalk) ##
 # please refer to https://github.com/gitalk/gitalk for more info.
 gitalk:
-  # clientID:  #Github Application Client ID
-  # clientSecret:  #Github Application Client Secret
-  # repository:  #Github repo
-  # owner:  #Github repo owner
-  # admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
-    # - owner
+  clientID: 52918917522d40566232 #Github Application Client ID
+  clientSecret: f61bf64eef30795135ee03663a9aa2682ef58857 #Github Application Client Secret
+  repository: sudodsl.github.io #Github repo
+  owner: sudodsl #Github repo owner
+  admin: sudodsl #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
+     - owner
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
