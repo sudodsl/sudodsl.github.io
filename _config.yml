@@ -12,8 +12,8 @@
 #    `--'   `----''--'   '--' `--'
 
 ## Base settings ##
-# url:  #the base hostname & protocol for your site e.g. https://www.someone.com
-# baseurl: http://sudodsl.github.io
+url: http://sudodsl.github.io #the base hostname & protocol for your site e.g. https://www.someone.com
+baseurl: http://sudodsl.github.io
 title: dsl's blog
 description: > #this means to ignore newlines until "nav_lists:"
   Someone's Blog
