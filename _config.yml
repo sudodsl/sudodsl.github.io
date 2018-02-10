@@ -28,9 +28,9 @@ nav_lists:
 
 paths:
   base: /
-  home: https://github.com/sudodsl.github.io
-#   all:  /all.html
-#   rss:  /feed.xml
+  home: /
+  all:  /all.html
+  rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
 repository: sudodsl/sudodsl.github.io #e.g. someone/someone.github.io
