@@ -8,8 +8,8 @@ titles:
 key: page-about
 ---
 
-### 个人简介
-* 作者：董树立
-* 兴趣：软件编程、IT/互联网、Linux爱好者
-* 地址：来自商丘 现居青岛
-* asd
+Just say something about yourself. :+1:
+
+{% highlight javascript %}
+  (() => console.log('hello, world!'))();
+{% endhighlight %}
