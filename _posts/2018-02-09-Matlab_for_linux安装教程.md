@@ -1,9 +1,10 @@
 ---
-layout:     post
-title:      Matlab for linux 安装教程
-keywords:   [matlab, linux，安装]   
-category:   linux教程
-tags:       [linux, matlab]
+layout: post
+title: Matlab for linux 安装教程
+key: 20180209
+keywords: [matlab, linux，安装]   
+category: linux教程
+tags: [linux, matlab]
 ---
 
 # MATLAB FOR LINUX 安装教程
