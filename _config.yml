@@ -64,7 +64,7 @@ gitalk:
   repository: sudodsl.github.io #Github repo
   owner: sudodsl #Github repo owner
   admin: sudodsl #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
-     - owner
+     # - owner
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
