@@ -66,15 +66,6 @@ gitalk:
   #owner: sudodsl #Github repo owner
   #admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
   #   - sudodsl
-  var gitalk = new Gitalk({
-  clientID: '52918917522d40566232',
-  clientSecret: 'f61bf64eef30795135ee03663a9aa2682ef58857',
-  repo: 'sudodsl.github.io',
-  owner: 'sudodsl',
-  admin: ['sudodsl'],
-})
-
-gitalk.render('gitalk-container')
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
