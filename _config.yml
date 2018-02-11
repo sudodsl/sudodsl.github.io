@@ -44,14 +44,15 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 author:
   name: dsl
   email: sudodsl@163.com #your Email address e.g. someone@site.com
-  facebook: sudodsl #your Facebook username
+  # facebook: sudodsl #your Facebook username
   twitter: sudodsl #your Twitter username
   github: sudodsl #your GitHub username
   # googleplus:  #your Google+ username
   weibo: sulydee #your Weibo username
   # douban:  #your Douban username
-  # linkedin: 董树立 #your Linkedin username
-  weixin: dong22226666
+  zhihu: www.foopoo.cn
+  linkedin: 树立-董-46625b117 #your Linkedin username
+
 
 ## Comment system (Disqus) ##
 disqus:
