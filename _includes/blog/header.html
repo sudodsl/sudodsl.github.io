@@ -4,17 +4,13 @@
   {%- else -%}
     {%- assign __path = '/' -%}
   {%- endif -%}
-
+  {%- include snippets/get-nav-url.html -%}
+  {%- if site.title -%}
+    <a class="site-title" title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
+  {%- endif -%} &nbsp; 
   <div class="site-logo">
     {%- include logo/logo.svg -%} 
   </div>
-  &nbsp; 
-  {%- include snippets/get-nav-url.html -%}
-
-  {%- if site.title -%}
-    <a class="site-title" title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
-  {%- endif -%}
-
   <nav>
     <ul class="inline-list">
       {%- if site.paths.home -%}
