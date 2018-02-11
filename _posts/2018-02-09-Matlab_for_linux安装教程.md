@@ -14,6 +14,7 @@ tags: [linux, matlab]
 $ sudo mount -o loop R2015b_glnxa64.iso /mnt/tmp
 ```
 2.执行安装过程，选择不联网安装，序列号在~/crack/readme.txt文件中:
+<!--more-->
 
 ```bash
 $ cd /mnt/tmp
