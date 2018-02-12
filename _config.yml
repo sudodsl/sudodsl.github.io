@@ -55,7 +55,7 @@ author:
 
 
 ## Comment system (Disqus) ##
-disqus:
+# disqus:
   # shortname: #the Disqus shortname for the site
 
 ## Comment system (gitalk) ##
@@ -65,8 +65,8 @@ gitalk:
   clientSecret: f61bf64eef30795135ee03663a9aa2682ef58857 #Github Application Client Secret
   repository: sudodsl.github.io #Github repo
   owner: sudodsl #Github repo owner
-  admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
-     - sudodsl
+  admin: sudodsl #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
+    # - sudodsl
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
@@ -77,7 +77,7 @@ leancloud:
   app_key: 8tEdrFRmH4TNNDYlMraAnjLc #LeanCloud App key
   app_class: sudodsl #LeanCloud App class
 
-# mathjax: true
+mathjax: true
 
 ## Paginate ##
 paginate: 5
