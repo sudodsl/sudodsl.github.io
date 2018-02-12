@@ -56,26 +56,26 @@ author:
 
 ## Comment system (Disqus) ##
 disqus:
-  shortname: sudodsl #the Disqus shortname for the site
+  # shortname: #the Disqus shortname for the site
 
 ## Comment system (gitalk) ##
 # please refer to https://github.com/gitalk/gitalk for more info.
 gitalk:
-  #clientID: 52918917522d40566232 #Github Application Client ID
-  #clientSecret: f61bf64eef30795135ee03663a9aa2682ef58857 #Github Application Client Secret
-  #repository: sudodsl.github.io #Github repo
-  #owner: sudodsl #Github repo owner
-  #admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
-  #   - sudodsl
+  clientID: 52918917522d40566232 #Github Application Client ID
+  clientSecret: f61bf64eef30795135ee03663a9aa2682ef58857 #Github Application Client Secret
+  repository: sudodsl.github.io #Github repo
+  owner: sudodsl #Github repo owner
+  admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
+     - sudodsl
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
 
 ## Reading quantity (LeanCloud) ##
 leancloud:
-  # app_id:  #LeanCloud App id
-  # app_key:  #LeanCloud App key
-  # app_class:  #LeanCloud App class
+  app_id: WuRTKlWfPqy1vMXBTxPARJ4J-gzGzoHsz #LeanCloud App id
+  app_key: 8tEdrFRmH4TNNDYlMraAnjLc #LeanCloud App key
+  app_class: sudodsl #LeanCloud App class
 
 # mathjax: true
 
