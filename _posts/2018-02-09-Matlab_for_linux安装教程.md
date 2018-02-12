@@ -15,10 +15,9 @@ comments: false
 $ sudo mount -o loop R2015b_glnxa64.iso /mnt/tmp
 ```
 
-<!--more-->
 2.执行安装过程，选择不联网安装，序列号在~/crack/readme.txt文件中:
-
-```bash
+<!--more-->
+```shell
 $ cd /mnt/tmp
 $ sudo ./install
 ```
@@ -27,8 +26,10 @@ $ sudo ./install
 ```shell
 $ sudo cp Matlab_2015b_Linux64_Crack/R2015b/bin/glnxa64/* /usr/local/MATLAB/R2015b/bin/glnxa64
 ```
-4.在/usr/local/MATLAB/R2015b/bin下输入命令 sudo ./matlab
-
+4.在/usr/local/MATLAB/R2015b/bin下输入命令: 
+```shell
+sudo ./matlab
+```
 选择crack下的license_standalone.lic进行激活:
 ```shell
 $ cd /usr/local/MATLAB/R2015b/bin
