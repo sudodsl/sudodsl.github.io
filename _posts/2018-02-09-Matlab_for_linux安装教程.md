@@ -5,7 +5,7 @@ key: 20180209
 keywords: [matlab, linux，安装]   
 category: linux教程
 tags: [linux, matlab]
-comments: true
+comments: false
 ---
 
 # MATLAB FOR LINUX 安装教程
